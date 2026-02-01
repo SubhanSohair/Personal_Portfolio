@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subhan-sohair.netlify.app/sitemap.xml
